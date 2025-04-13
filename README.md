@@ -46,7 +46,7 @@ The analysis is based on four CSV files:
 
 ## 📊 Tools Used
 - **SQL** – Core language used to perform all queries and aggregations
-- **DBMS** – SQLite / MySQL / PostgreSQL (use based on your environment)
+- **DBMS** – MySQL Workbench / PostgreSQL (use based on your environment)
 - **Spreadsheet / Data Studio / Tableau (Optional)** – For visualizations based on query output
 
 ---
@@ -73,10 +73,10 @@ The analysis is based on four CSV files:
 
 
 ## 🙋 About Me
-👨‍💻 Author: Ansh Singh Bhadauriya
-🐙 GitHub: @anshb9
-📧 Email: anshbhadauriya221@gmail.com
-💼 Linkedin: [ansh singh bhadauriya](https://www.linkedin.com/in/anshsinghbhadauriya/)
+- 👨‍💻 Author: Ansh Singh Bhadauriya
+- 🐙 GitHub: @anshb9
+- 📧 Email: anshbhadauriya221@gmail.com
+- 💼 Linkedin: [ansh singh bhadauriya](https://www.linkedin.com/in/anshsinghbhadauriya/)
 
 If you found this project interesting, feel free to ⭐ the repo and connect!
 
